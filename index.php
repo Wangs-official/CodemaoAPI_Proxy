@@ -1,4 +1,3 @@
-<!--FXXK LTC NM$L-->
 <?php
 $targetBase = "https://api.codemao.cn";
 $path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
